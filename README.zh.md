@@ -1,5 +1,7 @@
 # FastView
 
+[English](README.md) | [简体中文](README.zh.md)
+
 FastView 是一个简单的带测量功能和边缘查找的图像查看器。
 
 ## 编译

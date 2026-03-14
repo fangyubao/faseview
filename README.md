@@ -1,5 +1,7 @@
 # FastView
 
+[English](README.md) | [简体中文](README.zh.md)
+
 FastView is a simple image viewer with measurement and edge-finding features.
 
 ## Build
