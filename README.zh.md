@@ -1,6 +1,6 @@
 # FastView
 
-[English](README.md) | [简体中文](README.zh.md)
+[English](README.md) | [Chinese](README.zh.md)
 
 FastView 是一个简单的带测量功能和边缘查找的图像查看器。
 
@@ -13,19 +13,19 @@ make
 输出文件：
 
 ```powershell
-smartmeasure.exe
+fastview.exe
 ```
 
 ## 运行
 
 ```powershell
-.\smartmeasure.exe
+.\fastview.exe
 ```
 
 也可以直接带图片路径：
 
 ```powershell
-.\smartmeasure.exe 路径\\图片.png
+.\fastview.exe 路径\\图片.png
 ```
 
 ## 快捷键

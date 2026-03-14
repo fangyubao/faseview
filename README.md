@@ -1,6 +1,6 @@
 # FastView
 
-[English](README.md) | [简体中文](README.zh.md)
+[English](README.md) | [Chinese](README.zh.md)
 
 FastView is a simple image viewer with measurement and edge-finding features.
 
@@ -13,19 +13,19 @@ make
 Output:
 
 ```powershell
-smartmeasure.exe
+fastview.exe
 ```
 
 ## Run
 
 ```powershell
-.\smartmeasure.exe
+.\fastview.exe
 ```
 
 Or open a file directly:
 
 ```powershell
-.\smartmeasure.exe path\\to\\image.png
+.\fastview.exe path\\to\\image.png
 ```
 
 ## Shortcuts
